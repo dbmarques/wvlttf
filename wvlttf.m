@@ -45,7 +45,7 @@
 %       [tf] = wvlttf(data,Fs,[0 12],[3 20],'mikexcohen');
 %       [tf] = wvlttf(data,Fs,[0 12],[0],'sinus');
 % 
-% Referências:
+% References:
 %   EEGLAB
 %   https://www.youtube.com/watch?v=fkQGnYUv-FI  
 %   For more info check scripts: 
