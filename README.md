@@ -1,5 +1,5 @@
 # wvlttf
-MATLAB script for wavelet time-frequency transform.
+Marques D. B. Wavelet time-frequency transform in MATLAB. 2018.
 
 Author: Danilo Benette Marques, 2018.
 
